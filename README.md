@@ -2,7 +2,7 @@
 
 **`(Developer/Filmmaker/Creator)`**
 
-I'm an student Learning C and Python at 42 Porto. Developer and content creator building my version of the digital world one step at a time. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[Hugo Think][youtube]".
+I'm an student Learning C and Python at 42 Porto. Developer and content creator building my version of the digital world one step at a time. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[Hugo Think]".
 
    <p align="left">
       <a href="https://www.youtube.com/@hugothink?sub_confirmation=1">
