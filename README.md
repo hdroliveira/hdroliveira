@@ -47,4 +47,4 @@ I'm an student Learning C and Python at 42 Porto. Developer and content creator 
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdroliveira&show_icons=true&theme=gruvbox)
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdroliveira&show_icons=true&theme=gruvbox)
