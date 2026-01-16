@@ -44,7 +44,3 @@ I'm an student Learning C and Python at 42 Porto. Developer and content creator 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@hugothink?sub_confirmation=1)
 
 #
-
-### 📊 Stats
-
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdroliveira&show_icons=true&theme=gruvbox)
