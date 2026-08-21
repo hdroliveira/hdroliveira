@@ -28,7 +28,6 @@ I'm a student Learning C and Python at 42 Porto. Developer and content creator b
 
 🤝 Let's Connect 
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@hugothink?sub_confirmation=1)  
 <a href="https://www.linkedin.com/in/hdroliveira/"> <img alt="linkedin" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084d92"/> </a>
 
 #
